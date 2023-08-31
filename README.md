@@ -21,7 +21,7 @@
 <p>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Fantastic! You have now successfully installed osTicket, we will now need to configure some things, and do a "post-installation setup". After we have done this, we can go and "solve" tickets. We have to first configure some roles, let's create a "Senior Admin" by going to Admin Panel ---> Agents ---> Roles. 
 </p>
 <br />
 
